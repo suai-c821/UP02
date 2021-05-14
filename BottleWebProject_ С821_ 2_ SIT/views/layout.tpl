@@ -24,7 +24,6 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/home">Home</a></li>
                     <li><a href="/method1">Method 1</a></li>
                     <li><a href="/method2">Method 2</a></li>
                     <li><a href="/method3">Method 3</a></li>

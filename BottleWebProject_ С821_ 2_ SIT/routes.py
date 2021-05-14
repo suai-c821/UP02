@@ -2,7 +2,7 @@
 Routes and views for the bottle application.
 """
 
-from bottle import route, view
+from bottle import route, view, post, request
 from datetime import datetime
 
 @route('/')
@@ -42,7 +42,8 @@ def contact():
         title='Method 3',
         message='Thats method 3.',
         year=datetime.now().year
-    )
+    )    
+
 
 @route('/about')
 @view('about')

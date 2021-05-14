@@ -30,6 +30,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.py" />
+    <Compile Include="methodThree.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="methodLogic3.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="routes.py" />
   </ItemGroup>
   <ItemGroup>
