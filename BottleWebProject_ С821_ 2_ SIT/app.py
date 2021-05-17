@@ -6,7 +6,7 @@ import bottle
 import os
 import sys
 import methodThree
-
+import methodOne
 import routes
 
 if '--debug' in sys.argv[1:] or 'SERVER_DEBUG' in os.environ:
