@@ -24,5 +24,11 @@ def my_form():
         g1.addEdge(graph[j],graph[j+1])
         j = j + 2;
 
-    result = g1.test()
-    return result
+    result = " " 
+
+    for i in range(len(splitedMatrix)):
+        result += str(splitedMatrix[i]) + "<br/>"
+
+    result += str(graph) + "<br/>" + str(g1.test()) + "<br/>"
+
+    return result 
