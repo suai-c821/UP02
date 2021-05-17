@@ -41,6 +41,9 @@
     </Compile>
     <Compile Include="routes.py" />
     <Compile Include="test_Method1.py" />
+    <Compile Include="test_Method3.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="static\" />

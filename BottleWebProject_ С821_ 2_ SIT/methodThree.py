@@ -32,9 +32,9 @@ def my_form():
                 j = j + 2;
 
             result = " " 
-            with open ('data.txt', 'a') as outfile:
+            with open ('method3log.txt', 'a') as outfile:
                         jp = json.dumps(apexes)
-                        open('data.txt', 'a').write("Number of apexes: " + jp + " Time  : " + str(datetime.datetime.now()) + '\n')
+                        open('method3log.txt', 'a').write("Number of apexes: " + jp + " Time  : " + str(datetime.datetime.now()) + '\n')
  
             for i in range(len(splitedMatrix)):
                 result += str(splitedMatrix[i]) + "<br/>" 
