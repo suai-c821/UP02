@@ -1,0 +1,10 @@
+Number of apexes: 2 Time: 2021-05-17 10:29:50.866970
+Number of apexes: 3 Time: 2021-05-17 10:29:56.561248
+Number of apexes: 4 Time: 2021-05-17 10:30:03.020064
+Number of apexes: 5 Time: 2021-05-17 10:30:10.419224
+Number of apexes: 5 Time: 2021-05-17 10:42:01.513011
+Number of apexes: 5 Time    : 2021-05-17 11:33:26.294731
+Number of apexes: 7 Time    : 2021-05-17 11:34:37.708156
+Number of apexes: 55 Time    : 2021-05-17 11:34:55.177488
+Number of apexes: 10 Time    : 2021-05-17 11:35:27.550933
+Number of apexes: 5 Time  : 2021-05-17 12:21:51.901998
