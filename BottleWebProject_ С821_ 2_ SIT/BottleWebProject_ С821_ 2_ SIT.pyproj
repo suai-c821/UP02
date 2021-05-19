@@ -34,8 +34,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.py" />
-    <Compile Include="methodLogic1.py" />
-    <Compile Include="methodOne.py" />
     <Compile Include="methodThree.py">
       <SubType>Code</SubType>
     </Compile>
@@ -43,7 +41,6 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="routes.py" />
-    <Compile Include="test_Method1.py" />
     <Compile Include="test_Method3.py">
       <SubType>Code</SubType>
     </Compile>
