@@ -1,12 +1,14 @@
-import unittest 
 import methodLogic3
+import unittest 
 
-class Test_test_1(unittest.TestCase):
-    def testMethod(self):
-        graph = [[0,1, 1,2, 2,3, 3,1], [2, 1, 2, 2, 3, 3], [1, 1, 2, 2, 3, 1, 3, 2, 3, 3, 4, 1, 4, 2, 4, 3], [1, 1, 2, 1, 2, 2, 3, 2], [1, 1, 2, 2, 3, 2]]
-        result = ["graph has a Euler cycle", "graph is not Eulerian", "graph has a Euler path", "graph has a Euler path", "graph is not Eulerian"]
-        for i in range(len(graph)):
-            if(methodLogic3.matrixToList(graph[i]) == result[i]):
+
+class Test_Method3(unittest.TestCase):
+    def test_correct_method(self):
+        matrix = [[0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0,  1, 0, 1, 0, 1, 0, 0, 0, 1, 0], [0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0], [0, 1, 0, 1, 0, 1, 0, 1, 0], [0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0], [0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0]]
+        result = ["None", "[2, 1, 4, 3, 2]", "None", "None", "[2, 1, 6, 4, 5, 3, 2]"]
+       
+        for i in range(len(matrix)):
+            if(methodLogic3.findEuler(methodLogic3.split(methodLogic3.matrixToList(matrix[i]))) == result[i]):
                 self.assertTrue(False)
 
 if __name__ == '__main__':
