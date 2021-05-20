@@ -3,3 +3,355 @@ Number of apexes: 3 Time  : 2021-05-18 11:13:45.860627
 Number of apexes: 4 Time  : 2021-05-18 11:15:19.783024
 Number of apexes: 3 Time  : 2021-05-18 11:16:04.018983
 Number of apexes: 3 Time  : 2021-05-18 11:16:45.748027
+Number of apexes: 3 Time  : 2021-05-20 19:45:05.545836
+Number of apexes: 3 Time  : 2021-05-20 19:47:35.750726
+Number of apexes: 3 Time  : 2021-05-20 19:48:55.204233
+Number of apexes: 3 Time  : 2021-05-20 19:49:49.395530
+Number of apexes: 3 Time  : 2021-05-20 19:50:04.764000
+Number of apexes: 3 Time  : 2021-05-20 19:51:25.918034
+Number of apexes: 3 Time  : 2021-05-20 19:52:17.581435
+Number of apexes: 3 Time  : 2021-05-20 19:53:12.539701
+Number of apexes: 3 Time  : 2021-05-20 19:53:38.245302
+Number of apexes: 3 Time  : 2021-05-20 19:53:54.420683
+Number of apexes: 4 Time  : 2021-05-20 19:53:59.097275
+Number of apexes: 3 Time  : 2021-05-20 19:54:34.477910
+Number of apexes: 5 Time  : 2021-05-20 19:54:38.711872
+Number of apexes: 4 Time  : 2021-05-20 19:55:16.628574
+Number of apexes: 3 Time  : 2021-05-20 19:55:47.797273
+Number of apexes: 3 Time  : 2021-05-20 19:56:05.092714
+Number of apexes: 5 Time  : 2021-05-20 19:56:12.323868
+Number of apexes: 4 Time  : 2021-05-20 19:56:41.774778
+Number of apexes: 5 Time  : 2021-05-20 19:56:47.713872
+Number of apexes: 4 Time  : 2021-05-20 19:58:08.902078
+Number of apexes: 3 Time  : 2021-05-20 19:58:23.591057
+Number of apexes: 5 Time  : 2021-05-20 19:58:27.060262
+Number of apexes: 4 Time  : 2021-05-20 19:59:56.310970
+Number of apexes: 4 Time  : 2021-05-20 19:59:59.991068
+Number of apexes: 4 Time  : 2021-05-20 20:00:02.639576
+Number of apexes: 4 Time  : 2021-05-20 20:00:04.274896
+Number of apexes: 4 Time  : 2021-05-20 20:00:05.696168
+Number of apexes: 4 Time  : 2021-05-20 20:00:07.056053
+Number of apexes: 4 Time  : 2021-05-20 20:00:08.378887
+Number of apexes: 4 Time  : 2021-05-20 20:00:09.723117
+Number of apexes: 4 Time  : 2021-05-20 20:00:25.277921
+Number of apexes: 3 Time  : 2021-05-20 20:00:46.153938
+Number of apexes: 3 Time  : 2021-05-20 20:00:48.417004
+Number of apexes: 3 Time  : 2021-05-20 20:00:49.793872
+Number of apexes: 3 Time  : 2021-05-20 20:00:52.252797
+Number of apexes: 3 Time  : 2021-05-20 20:00:53.621838
+Number of apexes: 3 Time  : 2021-05-20 20:00:54.813028
+Number of apexes: 3 Time  : 2021-05-20 20:00:56.864261
+Number of apexes: 3 Time  : 2021-05-20 20:00:58.313058
+Number of apexes: 3 Time  : 2021-05-20 20:00:58.778942
+Number of apexes: 3 Time  : 2021-05-20 20:00:59.201946
+Number of apexes: 3 Time  : 2021-05-20 20:02:37.648164
+Number of apexes: 3 Time  : 2021-05-20 20:03:05.398848
+Number of apexes: 3 Time  : 2021-05-20 20:03:39.692691
+Number of apexes: 3 Time  : 2021-05-20 20:04:13.937606
+Number of apexes: 3 Time  : 2021-05-20 20:04:43.674026
+Number of apexes: 3 Time  : 2021-05-20 20:05:02.701713
+Number of apexes: 3 Time  : 2021-05-20 20:05:19.330074
+Number of apexes: 3 Time  : 2021-05-20 20:05:21.617500
+Number of apexes: 3 Time  : 2021-05-20 20:05:22.540036
+Number of apexes: 3 Time  : 2021-05-20 20:05:23.389832
+Number of apexes: 4 Time  : 2021-05-20 20:05:52.089732
+Number of apexes: 4 Time  : 2021-05-20 20:05:54.001337
+Number of apexes: 3 Time  : 2021-05-20 20:06:06.836223
+Number of apexes: 3 Time  : 2021-05-20 20:06:08.969964
+Number of apexes: 3 Time  : 2021-05-20 20:06:09.688701
+Number of apexes: 3 Time  : 2021-05-20 20:06:10.336760
+Number of apexes: 3 Time  : 2021-05-20 20:06:10.961720
+Number of apexes: 3 Time  : 2021-05-20 20:06:11.552595
+Number of apexes: 3 Time  : 2021-05-20 20:06:12.106205
+Number of apexes: 3 Time  : 2021-05-20 20:06:12.953425
+Number of apexes: 3 Time  : 2021-05-20 20:06:13.480460
+Number of apexes: 3 Time  : 2021-05-20 20:06:14.002189
+Number of apexes: 3 Time  : 2021-05-20 20:06:14.688505
+Number of apexes: 3 Time  : 2021-05-20 20:06:15.345461
+Number of apexes: 3 Time  : 2021-05-20 20:06:15.898841
+Number of apexes: 3 Time  : 2021-05-20 20:06:16.393624
+Number of apexes: 3 Time  : 2021-05-20 20:06:16.976857
+Number of apexes: 3 Time  : 2021-05-20 20:06:17.440851
+Number of apexes: 3 Time  : 2021-05-20 20:06:17.833338
+Number of apexes: 3 Time  : 2021-05-20 20:06:18.193432
+Number of apexes: 3 Time  : 2021-05-20 20:06:18.521399
+Number of apexes: 3 Time  : 2021-05-20 20:06:19.074923
+Number of apexes: 3 Time  : 2021-05-20 20:06:19.466315
+Number of apexes: 3 Time  : 2021-05-20 20:06:19.993840
+Number of apexes: 3 Time  : 2021-05-20 20:06:20.418030
+Number of apexes: 3 Time  : 2021-05-20 20:06:21.168733
+Number of apexes: 3 Time  : 2021-05-20 20:07:46.638717
+Number of apexes: 3 Time  : 2021-05-20 20:07:48.754154
+Number of apexes: 3 Time  : 2021-05-20 20:07:49.209744
+Number of apexes: 3 Time  : 2021-05-20 20:07:49.634061
+Number of apexes: 5 Time  : 2021-05-20 20:07:51.601151
+Number of apexes: 5 Time  : 2021-05-20 20:07:52.938080
+Number of apexes: 5 Time  : 2021-05-20 20:07:53.426166
+Number of apexes: 5 Time  : 2021-05-20 20:07:54.049552
+Number of apexes: 5 Time  : 2021-05-20 20:07:54.569706
+Number of apexes: 5 Time  : 2021-05-20 20:07:55.129002
+Number of apexes: 5 Time  : 2021-05-20 20:07:55.747783
+Number of apexes: 5 Time  : 2021-05-20 20:07:56.274144
+Number of apexes: 5 Time  : 2021-05-20 20:07:56.825838
+Number of apexes: 5 Time  : 2021-05-20 20:07:57.353364
+Number of apexes: 5 Time  : 2021-05-20 20:07:57.842909
+Number of apexes: 5 Time  : 2021-05-20 20:07:58.594285
+Number of apexes: 6 Time  : 2021-05-20 20:09:52.162526
+Number of apexes: 6 Time  : 2021-05-20 20:09:54.257339
+Number of apexes: 6 Time  : 2021-05-20 20:09:54.945546
+Number of apexes: 6 Time  : 2021-05-20 20:09:55.633766
+Number of apexes: 6 Time  : 2021-05-20 20:09:56.217861
+Number of apexes: 6 Time  : 2021-05-20 20:09:56.811397
+Number of apexes: 6 Time  : 2021-05-20 20:09:57.361838
+Number of apexes: 6 Time  : 2021-05-20 20:09:57.923792
+Number of apexes: 6 Time  : 2021-05-20 20:09:58.473794
+Number of apexes: 6 Time  : 2021-05-20 20:09:59.001606
+Number of apexes: 6 Time  : 2021-05-20 20:09:59.491058
+Number of apexes: 6 Time  : 2021-05-20 20:09:59.986390
+Number of apexes: 6 Time  : 2021-05-20 20:10:00.442701
+Number of apexes: 6 Time  : 2021-05-20 20:10:00.897389
+Number of apexes: 4 Time  : 2021-05-20 20:10:03.591002
+Number of apexes: 4 Time  : 2021-05-20 20:10:04.498838
+Number of apexes: 4 Time  : 2021-05-20 20:10:05.081705
+Number of apexes: 4 Time  : 2021-05-20 20:10:05.677162
+Number of apexes: 4 Time  : 2021-05-20 20:10:06.160477
+Number of apexes: 4 Time  : 2021-05-20 20:10:06.553841
+Number of apexes: 4 Time  : 2021-05-20 20:10:06.945243
+Number of apexes: 4 Time  : 2021-05-20 20:10:07.273101
+Number of apexes: 4 Time  : 2021-05-20 20:10:07.572110
+Number of apexes: 4 Time  : 2021-05-20 20:10:07.868147
+Number of apexes: 4 Time  : 2021-05-20 20:10:08.416873
+Number of apexes: 4 Time  : 2021-05-20 20:10:09.209073
+Number of apexes: 4 Time  : 2021-05-20 20:10:09.697719
+Number of apexes: 4 Time  : 2021-05-20 20:10:10.088917
+Number of apexes: 4 Time  : 2021-05-20 20:10:10.416616
+Number of apexes: 4 Time  : 2021-05-20 20:10:10.745520
+Number of apexes: 4 Time  : 2021-05-20 20:10:11.045487
+Number of apexes: 4 Time  : 2021-05-20 20:10:11.658745
+Number of apexes: 4 Time  : 2021-05-20 20:10:11.985434
+Number of apexes: 4 Time  : 2021-05-20 20:10:12.286348
+Number of apexes: 4 Time  : 2021-05-20 20:10:12.610359
+Number of apexes: 4 Time  : 2021-05-20 20:10:12.908792
+Number of apexes: 4 Time  : 2021-05-20 20:10:13.206568
+Number of apexes: 4 Time  : 2021-05-20 20:10:13.500546
+Number of apexes: 4 Time  : 2021-05-20 20:10:13.796275
+Number of apexes: 4 Time  : 2021-05-20 20:10:14.345281
+Number of apexes: 4 Time  : 2021-05-20 20:10:14.644257
+Number of apexes: 4 Time  : 2021-05-20 20:10:15.034655
+Number of apexes: 4 Time  : 2021-05-20 20:10:15.333886
+Number of apexes: 4 Time  : 2021-05-20 20:10:15.628636
+Number of apexes: 4 Time  : 2021-05-20 20:10:15.925014
+Number of apexes: 4 Time  : 2021-05-20 20:10:16.505154
+Number of apexes: 4 Time  : 2021-05-20 20:10:17.256605
+Number of apexes: 4 Time  : 2021-05-20 20:10:19.122063
+Number of apexes: 4 Time  : 2021-05-20 20:10:19.545367
+Number of apexes: 4 Time  : 2021-05-20 20:10:19.977182
+Number of apexes: 4 Time  : 2021-05-20 20:10:20.337718
+Number of apexes: 4 Time  : 2021-05-20 20:10:20.696542
+Number of apexes: 4 Time  : 2021-05-20 20:10:21.057771
+Number of apexes: 3 Time  : 2021-05-20 20:10:23.812749
+Number of apexes: 3 Time  : 2021-05-20 20:11:01.337697
+Number of apexes: 4 Time  : 2021-05-20 20:12:11.225494
+Number of apexes: 4 Time  : 2021-05-20 20:12:12.729589
+Number of apexes: 4 Time  : 2021-05-20 20:12:13.480373
+Number of apexes: 4 Time  : 2021-05-20 20:12:14.234055
+Number of apexes: 4 Time  : 2021-05-20 20:12:14.921389
+Number of apexes: 4 Time  : 2021-05-20 20:12:15.639713
+Number of apexes: 4 Time  : 2021-05-20 20:12:16.361241
+Number of apexes: 4 Time  : 2021-05-20 20:12:17.039893
+Number of apexes: 4 Time  : 2021-05-20 20:12:17.770458
+Number of apexes: 4 Time  : 2021-05-20 20:12:18.449089
+Number of apexes: 4 Time  : 2021-05-20 20:12:18.976883
+Number of apexes: 4 Time  : 2021-05-20 20:12:19.369793
+Number of apexes: 4 Time  : 2021-05-20 20:12:19.697401
+Number of apexes: 4 Time  : 2021-05-20 20:12:20.025975
+Number of apexes: 4 Time  : 2021-05-20 20:12:20.352716
+Number of apexes: 4 Time  : 2021-05-20 20:12:20.937556
+Number of apexes: 4 Time  : 2021-05-20 20:12:21.625955
+Number of apexes: 4 Time  : 2021-05-20 20:12:22.154014
+Number of apexes: 4 Time  : 2021-05-20 20:12:22.609506
+Number of apexes: 4 Time  : 2021-05-20 20:12:23.002330
+Number of apexes: 3 Time  : 2021-05-20 20:12:25.175770
+Number of apexes: 3 Time  : 2021-05-20 20:12:28.203108
+Number of apexes: 3 Time  : 2021-05-20 20:12:31.200072
+Number of apexes: 3 Time  : 2021-05-20 20:12:32.873269
+Number of apexes: 3 Time  : 2021-05-20 20:12:35.128563
+Number of apexes: 3 Time  : 2021-05-20 20:12:35.617151
+Number of apexes: 3 Time  : 2021-05-20 20:12:35.976530
+Number of apexes: 3 Time  : 2021-05-20 20:12:36.335984
+Number of apexes: 3 Time  : 2021-05-20 20:12:36.696853
+Number of apexes: 3 Time  : 2021-05-20 20:12:37.025338
+Number of apexes: 3 Time  : 2021-05-20 20:12:37.324687
+Number of apexes: 3 Time  : 2021-05-20 20:12:38.041762
+Number of apexes: 3 Time  : 2021-05-20 20:12:38.340044
+Number of apexes: 3 Time  : 2021-05-20 20:12:38.665939
+Number of apexes: 3 Time  : 2021-05-20 20:12:39.292145
+Number of apexes: 3 Time  : 2021-05-20 20:12:39.617923
+Number of apexes: 3 Time  : 2021-05-20 20:12:40.272980
+Number of apexes: 3 Time  : 2021-05-20 20:12:40.665400
+Number of apexes: 3 Time  : 2021-05-20 20:12:41.025461
+Number of apexes: 3 Time  : 2021-05-20 20:12:41.417956
+Number of apexes: 3 Time  : 2021-05-20 20:12:41.807951
+Number of apexes: 3 Time  : 2021-05-20 20:12:42.201115
+Number of apexes: 3 Time  : 2021-05-20 20:12:42.600760
+Number of apexes: 3 Time  : 2021-05-20 20:12:42.994131
+Number of apexes: 3 Time  : 2021-05-20 20:12:43.354199
+Number of apexes: 3 Time  : 2021-05-20 20:12:43.714555
+Number of apexes: 3 Time  : 2021-05-20 20:13:15.145278
+Number of apexes: 3 Time  : 2021-05-20 20:21:05.930444
+Number of apexes: 3 Time  : 2021-05-20 20:21:08.336467
+Number of apexes: 3 Time  : 2021-05-20 20:21:09.999281
+Number of apexes: 3 Time  : 2021-05-20 20:21:11.504379
+Number of apexes: 3 Time  : 2021-05-20 20:21:12.488725
+Number of apexes: 3 Time  : 2021-05-20 20:21:36.289665
+Number of apexes: 3 Time  : 2021-05-20 20:22:20.811903
+Number of apexes: 3 Time  : 2021-05-20 20:22:33.636700
+Number of apexes: 3 Time  : 2021-05-20 20:23:15.499564
+Number of apexes: 3 Time  : 2021-05-20 20:24:06.811615
+Number of apexes: 3 Time  : 2021-05-20 20:24:08.790486
+Number of apexes: 3 Time  : 2021-05-20 20:24:12.775714
+Number of apexes: 3 Time  : 2021-05-20 20:24:14.048082
+Number of apexes: 3 Time  : 2021-05-20 20:24:14.675444
+Number of apexes: 3 Time  : 2021-05-20 20:24:15.223431
+Number of apexes: 4 Time  : 2021-05-20 20:24:49.852648
+Number of apexes: 3 Time  : 2021-05-20 20:31:59.560730
+Number of apexes: 3 Time  : 2021-05-20 20:32:29.846206
+Number of apexes: 3 Time  : 2021-05-20 20:32:31.879661
+Number of apexes: 3 Time  : 2021-05-20 20:32:32.758237
+Number of apexes: 3 Time  : 2021-05-20 20:32:33.383479
+Number of apexes: 3 Time  : 2021-05-20 20:32:33.902772
+Number of apexes: 3 Time  : 2021-05-20 20:32:34.270654
+Number of apexes: 3 Time  : 2021-05-20 20:32:34.629569
+Number of apexes: 3 Time  : 2021-05-20 20:32:34.959329
+Number of apexes: 3 Time  : 2021-05-20 20:32:35.286890
+Number of apexes: 3 Time  : 2021-05-20 20:32:35.585604
+Number of apexes: 3 Time  : 2021-05-20 20:32:35.910884
+Number of apexes: 3 Time  : 2021-05-20 20:32:36.210315
+Number of apexes: 3 Time  : 2021-05-20 20:32:36.526313
+Number of apexes: 3 Time  : 2021-05-20 20:32:36.855968
+Number of apexes: 3 Time  : 2021-05-20 20:32:37.154918
+Number of apexes: 3 Time  : 2021-05-20 20:32:37.478455
+Number of apexes: 3 Time  : 2021-05-20 20:32:37.777993
+Number of apexes: 3 Time  : 2021-05-20 20:32:38.042534
+Number of apexes: 3 Time  : 2021-05-20 20:32:38.339559
+Number of apexes: 3 Time  : 2021-05-20 20:32:38.633978
+Number of apexes: 3 Time  : 2021-05-20 20:32:38.929955
+Number of apexes: 3 Time  : 2021-05-20 20:32:39.225569
+Number of apexes: 3 Time  : 2021-05-20 20:32:39.522744
+Number of apexes: 3 Time  : 2021-05-20 20:32:39.819038
+Number of apexes: 3 Time  : 2021-05-20 20:32:40.141429
+Number of apexes: 3 Time  : 2021-05-20 20:32:40.441228
+Number of apexes: 3 Time  : 2021-05-20 20:32:40.739407
+Number of apexes: 3 Time  : 2021-05-20 20:32:41.034577
+Number of apexes: 3 Time  : 2021-05-20 20:32:41.321205
+Number of apexes: 3 Time  : 2021-05-20 20:32:41.648762
+Number of apexes: 3 Time  : 2021-05-20 20:32:41.946495
+Number of apexes: 3 Time  : 2021-05-20 20:32:42.242115
+Number of apexes: 3 Time  : 2021-05-20 20:32:42.537816
+Number of apexes: 3 Time  : 2021-05-20 20:32:42.863007
+Number of apexes: 3 Time  : 2021-05-20 20:32:43.161386
+Number of apexes: 3 Time  : 2021-05-20 20:32:43.458641
+Number of apexes: 3 Time  : 2021-05-20 20:32:43.755572
+Number of apexes: 3 Time  : 2021-05-20 20:32:44.050208
+Number of apexes: 3 Time  : 2021-05-20 20:32:44.346086
+Number of apexes: 3 Time  : 2021-05-20 20:37:10.134702
+Number of apexes: 3 Time  : 2021-05-20 20:40:29.703800
+Number of apexes: 4 Time  : 2021-05-20 20:46:08.747851
+Number of apexes: 4 Time  : 2021-05-20 20:46:41.942210
+Number of apexes: 4 Time  : 2021-05-20 20:46:46.678341
+Number of apexes: 4 Time  : 2021-05-20 20:46:47.565697
+Number of apexes: 4 Time  : 2021-05-20 20:46:48.184482
+Number of apexes: 4 Time  : 2021-05-20 20:46:49.621789
+Number of apexes: 4 Time  : 2021-05-20 20:46:50.405840
+Number of apexes: 4 Time  : 2021-05-20 20:46:51.031083
+Number of apexes: 4 Time  : 2021-05-20 20:46:52.375127
+Number of apexes: 4 Time  : 2021-05-20 20:46:52.993292
+Number of apexes: 4 Time  : 2021-05-20 20:46:53.517429
+Number of apexes: 4 Time  : 2021-05-20 20:46:54.005317
+Number of apexes: 4 Time  : 2021-05-20 20:46:54.437696
+Number of apexes: 4 Time  : 2021-05-20 20:46:54.829706
+Number of apexes: 4 Time  : 2021-05-20 20:46:55.221486
+Number of apexes: 4 Time  : 2021-05-20 20:46:55.614346
+Number of apexes: 4 Time  : 2021-05-20 20:46:58.718679
+Number of apexes: 4 Time  : 2021-05-20 20:49:14.732322
+Number of apexes: 4 Time  : 2021-05-20 20:49:19.181968
+Number of apexes: 4 Time  : 2021-05-20 20:49:19.809377
+Number of apexes: 4 Time  : 2021-05-20 20:49:20.493924
+Number of apexes: 4 Time  : 2021-05-20 20:49:21.054122
+Number of apexes: 3 Time  : 2021-05-20 20:49:23.112735
+Number of apexes: 3 Time  : 2021-05-20 21:21:43.104537
+Number of apexes: 5 Time  : 2021-05-20 21:23:15.684517
+Number of apexes: 5 Time  : 2021-05-20 21:27:10.178368
+Number of apexes: 5 Time  : 2021-05-20 21:27:48.848034
+Number of apexes: 5 Time  : 2021-05-20 21:29:42.163763
+Number of apexes: 5 Time  : 2021-05-20 21:31:56.190603
+Number of apexes: 5 Time  : 2021-05-20 21:32:16.848133
+Number of apexes: 5 Time  : 2021-05-20 21:33:41.816417
+Number of apexes: 5 Time  : 2021-05-20 21:39:39.444778
+Number of apexes: 5 Time  : 2021-05-20 21:39:54.496743
+Number of apexes: 5 Time  : 2021-05-20 21:41:43.965847
+Number of apexes: 5 Time  : 2021-05-20 21:42:37.889416
+Number of apexes: 5 Time  : 2021-05-20 21:43:09.273430
+Number of apexes: 5 Time  : 2021-05-20 21:43:48.550887
+Number of apexes: 5 Time  : 2021-05-20 21:44:17.810216
+Number of apexes: 5 Time  : 2021-05-20 21:45:17.649300
+Number of apexes: 5 Time  : 2021-05-20 21:46:07.791109
+Number of apexes: 5 Time  : 2021-05-20 21:46:16.808167
+Number of apexes: 5 Time  : 2021-05-20 21:46:26.448280
+Number of apexes: 5 Time  : 2021-05-20 21:46:33.190071
+Matrix: [0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0] Time  : 2021-05-20 21:48:38.453625
+Matrix: [0, 1, 1, 1, 0, 1, 1, 1, 0] Time  : 2021-05-20 21:50:15.811715
+Matrix: [0, 1, 1, 1, 0, 1, 1, 1, 0] Time  : 2021-05-20 22:11:45.654099
+Matrix: [0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0] Time  : 2021-05-20 22:11:51.355832
+Matrix: [0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0] Time  : 2021-05-20 22:12:35.175526
+Matrix: [0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0] Time  : 2021-05-20 22:15:50.877285
+Matrix: [0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0] Time  : 2021-05-20 22:17:21.197692
+Matrix: [0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0] Time  : 2021-05-20 22:20:51.298642
+Matrix: [0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0] Time  : 2021-05-20 22:20:56.297805
+Matrix: [0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0] Time  : 2021-05-20 22:21:13.569288
+Matrix: [] Time  : 2021-05-20 22:21:17.422166
+Matrix: [0] Time  : 2021-05-20 22:26:32.549665
+Matrix: [0, 1, 0] Time  : 2021-05-20 22:26:49.178949
+Matrix: [0, 1] Time  : 2021-05-20 22:26:52.797755
+Matrix: [1] Time  : 2021-05-20 22:26:56.433346
+Matrix: [0] Time  : 2021-05-20 22:26:59.241175
+Matrix: [1] Time  : 2021-05-20 22:27:40.535581
+Matrix: [1] Time  : 2021-05-20 22:32:48.515076
+Matrix: [1, 1, 1] Time  : 2021-05-20 22:32:54.809089
+Matrix: [1, 1] Time  : 2021-05-20 22:33:01.424723
+Matrix: [1] Time  : 2021-05-20 22:34:27.087622
+Matrix: [0] Time  : 2021-05-20 22:34:29.891246
+Matrix: [1, 1, 0, 0, 1, 0, 0, 1, 1] Time  : 2021-05-20 22:34:50.027807
+Matrix: [0, 0, 1, 0, 1, 0, 0, 1, 1] Time  : 2021-05-20 22:34:56.810750
+Matrix: [1] Time  : 2021-05-20 22:35:00.000844
+Matrix: [0] Time  : 2021-05-20 22:35:02.377772
+Matrix: [1] Time  : 2021-05-20 22:37:16.558300
+Matrix: [0] Time  : 2021-05-20 22:37:19.288779
+Matrix: [0] Time  : 2021-05-20 22:38:27.550756
+Matrix: [1, 0] Time  : 2021-05-20 22:38:45.007089
+Matrix: [1] Time  : 2021-05-20 22:39:38.571101
+Matrix: [0] Time  : 2021-05-20 22:39:41.231137
+Matrix: [1] Time  : 2021-05-20 22:40:18.248553
+Matrix: [1, 1, 1, 1, 1, 1, 1, 0, 1] Time  : 2021-05-20 22:40:36.578587
+Matrix: [1, 1, 1, 1] Time  : 2021-05-20 22:40:42.917160
+Matrix: [1] Time  : 2021-05-20 22:40:45.155815
+Matrix: [1] Time  : 2021-05-20 22:40:52.274234
+Matrix: [0] Time  : 2021-05-20 22:40:59.271826
+Matrix: [1] Time  : 2021-05-20 22:42:12.256044
+Matrix: [0] Time  : 2021-05-20 22:42:14.468207
+Matrix: [1, 0, 1, 1] Time  : 2021-05-20 22:43:58.457576
+Matrix: [1, 0, 1, 1, 1, 1, 1, 1, 1] Time  : 2021-05-20 22:44:02.837681
+Matrix: [0] Time  : 2021-05-20 22:46:02.668635
+Matrix: [1] Time  : 2021-05-20 22:46:15.703304
+Matrix: [1, 1, 1, 1] Time  : 2021-05-20 22:46:35.084775
+Matrix: [1, 1, 1, 1] Time  : 2021-05-20 22:47:41.392718
+Matrix: [1] Time  : 2021-05-20 22:47:44.829564
+Matrix: [1, 1, 0, 0, 1, 0, 1, 0, 1] Time  : 2021-05-20 22:48:13.373442
+Matrix: [1, 1, 0, 0, 1, 0, 1, 0, 1] Time  : 2021-05-20 22:48:16.929462
+Matrix: [1, 1, 1, 1] Time  : 2021-05-20 22:54:08.967863
+Matrix: [1, 1, 1, 1] Time  : 2021-05-20 22:54:13.881916
+Matrix: [1] Time  : 2021-05-20 22:57:54.230741
+Matrix: [1, 1, 1, 1] Time  : 2021-05-20 22:57:58.166217
+Matrix: [1, 1, 1, 1, 1, 1, 1, 1, 1] Time  : 2021-05-20 22:58:07.224465
+Matrix: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1] Time  : 2021-05-20 22:58:11.538272
+Matrix: [0, 1, 0, 0, 0, 1, 1, 0, 0] Time  : 2021-05-20 23:08:00.092491

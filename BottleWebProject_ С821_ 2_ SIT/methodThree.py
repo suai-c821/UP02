@@ -9,40 +9,40 @@ import datetime
 
 @post('/method3', method='post')
 def my_form():
-    apexes = request.forms.get('ADRESS')
- 
-    if(apexes.isdigit()):   
-        apexes = int(apexes)
-        if(apexes > 0):
-            matrix = methodLogic3.createGraph(70, apexes)
-            splitedMatrix = methodLogic3.splitMatirx(matrix, apexes)
+    
+    matrix = request.forms.get('matrix')
+    
+    if(matrix is not ""):        
 
-            for i in range(len(splitedMatrix)):
-                print(splitedMatrix[i])
+        matrixFinal = []
 
-            graph = methodLogic3.matrixToList(matrix)
-            print(graph)
-            connects = int(len(graph)/2)
-            vertices = max(graph) + 1
-            j = 0
-            g1 = methodLogic3.Graph(vertices);
+        for i in range(0, len(matrix)):
+            if(matrix[i]== "1" or matrix[i]== "0"):
+                matrixFinal.append(int(matrix[i]))
 
-            for i in range(connects):
-                g1.addEdge(graph[j],graph[j+1])
-                j = j + 2;
+        if (int(math.sqrt(len(matrixFinal)))**2 != len(matrixFinal)):
+            return "Main graph is not correct"
+
+        if (len(matrix) == 1 and str(matrix[0]) == "0"):
+            return "Can`t be 0"
+
+        else:
+            graph = methodLogic3.matrixToList(matrixFinal)
+
+            splitedGraph = methodLogic3.split(graph)     
 
             result = " " 
             with open ('method3log.txt', 'a') as outfile:
-                        jp = json.dumps(apexes)
-                        open('method3log.txt', 'a').write("Number of apexes: " + jp + " Time  : " + str(datetime.datetime.now()) + '\n')
+                        jp = json.dumps(matrixFinal)
+                        open('method3log.txt', 'a').write("Matrix: " + jp + " Time  : " + str(datetime.datetime.now()) + '\n')
  
-            for i in range(len(splitedMatrix)):
-                result += str(splitedMatrix[i]) + "<br/>" 
+            result += "Matrix: " + "<br/>" + str(matrixFinal) + "<br/>"
 
-            result += str(graph) + "<br/>" + str(g1.test()) + "<br/>"
+            euler = methodLogic3.findEuler(splitedGraph)
+
+            result += "<br/>" + "Connects: " + "<br/>" +  str(graph) + "<br/>" + "<br/>" + "Result: " + "<br/>" + str(euler)
 
             return result 
-        else:
-            return "Apexes can`t be 0"
+
     else:
-        return "Wrong apex"
+        return "Matrix can`t be empty"

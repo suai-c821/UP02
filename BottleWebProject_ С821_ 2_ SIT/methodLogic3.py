@@ -1,79 +1,5 @@
-from collections import defaultdict
-import random
 import math
-   
-class Graph:  
-    def __init__(self,vertices):
-        self.V= vertices 
-        self.graph = defaultdict(list) 
-   
-    def addEdge(self,u,v):
-        self.graph[u].append((v))
-        self.graph[v].append((u))
-   
-    def isVisited(self,v,visited): 
-        visited[v]= True
-  
-        for i in self.graph[v]:
-            if visited[i]==False:
-                self.isVisited(i,visited)
-   
-    def isConnected(self):
-        visited =[False]*(self.V)
-        for i in range(self.V):
-            if len(self.graph[i]) > 1:
-                break       
-        if i == self.V-1:
-            return True
-        self.isVisited(i,visited)
-        for i in range(self.V):
-            if visited[i]==False and len(self.graph[i]) > 0:
-                return False
-          
-        return True
-
-    def isEulerian(self):
-        if self.isConnected() == False:
-            return 0
-        else:
-            odd = 0
-            for i in range(self.V):
-                if len(self.graph[i]) % 2 !=0:
-                    odd +=1
-            if odd == 0:
-                return 2
-            elif odd == 2:
-                return 1
-            elif odd > 2:
-                return 0
-  
-    def test(self):
-         res = self.isEulerian()
-         if res == 0:
-             result = "graph is not Eulerian"
-         elif res ==1 :
-             result = "graph has a Euler path"
-         else:
-             result = "graph has a Euler cycle"
-         return result 
-
-#Метод для создания графа (матрицы)
-def createGraph(chanceCreateBond, numberOfApex):
-    graph = []
-    for i in range(numberOfApex*numberOfApex):
-        graph.append(0)
-
-    for i in range(0,numberOfApex):
-        for j in range(i,numberOfApex):
-            if (random.randint(0,100)<=chanceCreateBond):
-                graph[i*numberOfApex+j]=1
-                graph[j*numberOfApex+i]=1
-
-    return graph
-
-def splitMatirx(graph, lists=1):
-    length = len(graph)
-    return [graph[i*length // lists: (i+1)*length // lists] for i in range(lists)]
+import random
 
 #Метод преобразования матрицы в связи
 def matrixToList(graph):
@@ -106,3 +32,39 @@ def matrixToList(graph):
             outBonds.append(bonds[a])
 
     return outBonds
+
+#заполнить лист нужным образом
+def split(graph):
+    apexes = []
+    k = len(graph)/2
+    j = 0
+    for i in range(int(k)):
+        apexes.append(())
+    
+    for i in range(int(k)):
+        apexes[i] += (graph[j], graph[j+1])
+        j = j + 2
+    return apexes
+
+#метод поиска эйлерова пути
+def sub(visited, _cur, graph):
+    if not graph:
+        return visited + [_cur]
+    for i, edge in enumerate(graph):
+        cur, nex = edge
+        if _cur not in edge:
+            continue
+        _graph = graph[:]
+        del _graph[i]
+        if _cur == cur:
+            res = sub(visited + [cur], nex, _graph)
+        else:
+            res = sub(visited + [nex], cur, _graph)
+        if res:
+            return res
+
+def findEuler(graph):
+    head, tail = graph[0], graph[1:]
+    prev, nex = head
+    return sub([prev], nex, tail)
+
