@@ -66,8 +66,10 @@
     <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="static\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="static\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="static\images\example.png" />
     <Content Include="static\images\ExamplePic1Method1.png" />
     <Content Include="static\images\ExamplePic2Method1.png" />
+    <Content Include="static\images\graph.png" />
     <Content Include="static\scripts\bootstrap.js" />
     <Content Include="static\scripts\bootstrap.min.js" />
     <Content Include="static\scripts\jquery-1.10.2.intellisense.js" />
