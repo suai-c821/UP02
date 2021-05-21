@@ -40,7 +40,7 @@ def generate():
     for i in range(0, int(math.sqrt(len(graph2Final)))):
         for j in range(0, int(math.sqrt(len(graph2Final)))):
             result2 += str(graph2Final[j+h]) + " "
-        h += int(math.sqrt(len(graph1Final)))
+        h += int(math.sqrt(len(graph2Final)))
         result2 += "<br>"
 
     log = {}
