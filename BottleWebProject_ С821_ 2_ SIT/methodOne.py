@@ -2,12 +2,11 @@ from bottle import route, view, post, request
 import pdb, json
 import methodLogic1
 import html
-import datetime
+from datetime import datetime
 import math
 
 @post('/method1', method = 'post')
 def generate():
-
     graph1 = request.forms.get('graph1')
     graph2 = request.forms.get('graph2')
     graph1Final = []
@@ -43,11 +42,11 @@ def generate():
         h += int(math.sqrt(len(graph2Final)))
         result2 += "<br>"
 
-    log = {}
-    log['mainGraph'] = graph1Final
-    log['fragmentGraph'] = graph2Final
-    log['apexes'] = str(methodLogic1.findFragment(methodLogic1.matrixToList(graph1Final), methodLogic1.matrixToList(graph2Final)))
-    jp = json.dumps(log)
-    open('method1log.txt', 'a').write(jp + '\n' + "Date: " + str(datetime.datetime.now()) + '\n\n')
+    jf = json.dumps({
+        'mainGraph': graph1Final,
+        'fragmentGraph': graph2Final,
+        'apexes': str(methodLogic1.findFragment(methodLogic1.matrixToList(graph1Final), methodLogic1.matrixToList(graph2Final))),
+    })
+    open('method1.log', 'a').write(f"[{datetime.strftime(datetime.utcnow(), '%Y-%m-%d %H:%M:%S')}] {jf}\n")
 
-    return "Main graph: <br>" + result1 + "<br> Fragment graph: <br>" + result2 + "<br> Apexes: <br>" + str(methodLogic1.findFragment(methodLogic1.matrixToList(graph1Final), methodLogic1.matrixToList(graph2Final)))
+    return f"Main graph: <br>{result1}<br> Fragment graph: <br>{result2}<br> Apexes: <br>{methodLogic1.findFragment(methodLogic1.matrixToList(graph1Final), methodLogic1.matrixToList(graph2Final))}"

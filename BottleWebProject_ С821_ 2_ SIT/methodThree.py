@@ -4,16 +4,14 @@ import random
 import math
 import methodLogic3
 import json
-import datetime
+from datetime import datetime
 
 
 @post('/method3', method='post')
 def my_form():
-    
     matrix = request.forms.get('matrix')
-    
-    if(matrix is not ""):        
 
+    if(matrix is not ""):
         matrixFinal = []
 
         for i in range(0, len(matrix)):
@@ -28,21 +26,11 @@ def my_form():
 
         else:
             graph = methodLogic3.matrixToList(matrixFinal)
+            euler = methodLogic3.findEuler(methodLogic3.split(graph))
 
-            splitedGraph = methodLogic3.split(graph)     
+            open('method3.log', 'a').write(f"[{datetime.strftime(datetime.utcnow(), '%Y-%m-%d %H:%M:%S')}] {json.dumps(matrixFinal)}\n")
 
-            result = " " 
-            with open ('method3log.txt', 'a') as outfile:
-                        jp = json.dumps(matrixFinal)
-                        open('method3log.txt', 'a').write("Matrix: " + jp + " Time  : " + str(datetime.datetime.now()) + '\n')
- 
-            result += "Matrix: " + "<br/>" + str(matrixFinal) + "<br/>"
-
-            euler = methodLogic3.findEuler(splitedGraph)
-
-            result += "<br/>" + "Connects: " + "<br/>" +  str(graph) + "<br/>" + "<br/>" + "Result: " + "<br/>" + str(euler)
-
-            return result 
+            return f"Matrix: <br/>{matrixFinal}<br/><br/>Connects: <br/>{graph}<br/><br/>Result: <br/>{euler}"
 
     else:
         return "Matrix can`t be empty"

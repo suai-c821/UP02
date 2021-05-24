@@ -88,7 +88,7 @@ def findFragment(mainGraph, fragmentGraph):
                     finalCount.append(finalMainGraph[j+1])
                 j += 2
             i += 2
-    
+
         if (len(count) == len(fragmentGraph)):
             points.append(finalCount)
 
